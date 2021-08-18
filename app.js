@@ -12,7 +12,7 @@ btn_reset.addEventListener('click', () => {
 
 const phrases = [
     'We are going to need a bigger boat',
-    'Hold on to your butts',
+    'No soup for you',
     'Milk was a bad choice',
     'Follow the yellow brick road',
     'Oh how the turn tables'
