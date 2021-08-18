@@ -11,11 +11,11 @@ btn_reset.addEventListener('click', () => {
 });
 
 const phrases = [
-    'Phrase one',
-    'Phrase two',
-    'Phrase three',
-    'Phrase four',
-    'Phrase five'
+    'We are going to need a bigger boat',
+    'Hold on to your butts',
+    'Milk was a bad choice',
+    'Follow the yellow brick road',
+    'Oh how the turn tables'
 ];
 
 
